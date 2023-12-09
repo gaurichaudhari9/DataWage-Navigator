@@ -1,8 +1,8 @@
 config = {
-    'user': 'root',
-    'password': 'root',
-    'host': '127.0.0.1',
-    'port': '8889',
-    'database': 'datawage-navigator',
+    'user': 'sql5669038',
+    'password': 'bl78kBRCdA',
+    'host': 'sql5.freemysqlhosting.net',
+    'port': '3306',
+    'database': 'sql5669038',
     'raise_on_warnings': True
 }
