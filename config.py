@@ -1,8 +1,8 @@
 config = {
-    'user': 'ut1bnxeqtt9nqb8d',
-    'password': 'rPz8LMHmWHgIUSin3T1p@9',
-    'host': 'bw3jptal8wgfpfucafmk-mysql.services.clever-cloud.com',
+    'user': 'sql5676112',
+    'password': 'Hipb6d9Y9G',
+    'host': 'sql5.freemysqlhosting.net',
     'port': '3306',
-    'database': 'bw3jptal8wgfpfucafmk',
+    'database': 'sql5676112',
     'raise_on_warnings': True
 }
