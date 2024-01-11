@@ -1,8 +1,8 @@
 config = {
-    'user': 'id21775167_admin',
-    'password': 'Gauridimple@9',
-    'host': '99.000webhost.io',
+    'user': 'ut1bnxeqtt9nqb8d',
+    'password': 'rPz8LMHmWHgIUSin3T1p@9',
+    'host': 'bw3jptal8wgfpfucafmk-mysql.services.clever-cloud.com',
     'port': '3306',
-    'database': 'id21775167_datawage',
+    'database': 'bw3jptal8wgfpfucafmk',
     'raise_on_warnings': True
 }
